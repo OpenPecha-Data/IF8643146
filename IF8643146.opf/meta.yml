@@ -1,0 +1,30 @@
+id: IF8643146
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:52:53.623554'
+last_modified: '2022-05-30T20:52:53.623559'
+parser: null
+source_metadata:
+  title: Geshe Langri Thangpa Series
+  language: fr
+  description: 'Texts by the famous Kadampa geshe Langri Thangpa Dorje Senge (glang
+    ri thang pa rdo rje seng ge, 1054–1123):'
+  volume:
+    f3480:
+      title: Eight Verses of Training the Mind
+      base_file: f3480.txt
+      order: 1
+      parent: Mind Training
+    fA1AE:
+      title: The Sayings of Geshe Langri Tangpa
+      base_file: fA1AE.txt
+      order: 2
+      parent: Mind Training
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
